@@ -1,0 +1,15 @@
+C:\Users\EliasBexter\source\repos\learning\learning\obj\Debug\net6.0\learning.csproj.AssemblyReference.cache
+C:\Users\EliasBexter\source\repos\learning\learning\obj\Debug\net6.0\learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliasBexter\source\repos\learning\learning\obj\Debug\net6.0\learning.AssemblyInfoInputs.cache
+C:\Users\EliasBexter\source\repos\learning\learning\obj\Debug\net6.0\learning.AssemblyInfo.cs
+C:\Users\EliasBexter\source\repos\learning\learning\obj\Debug\net6.0\learning.csproj.CoreCompileInputs.cache
+C:\Users\EliasBexter\source\repos\learning\learning\bin\Debug\net6.0\learning.exe
+C:\Users\EliasBexter\source\repos\learning\learning\bin\Debug\net6.0\learning.deps.json
+C:\Users\EliasBexter\source\repos\learning\learning\bin\Debug\net6.0\learning.runtimeconfig.json
+C:\Users\EliasBexter\source\repos\learning\learning\bin\Debug\net6.0\learning.dll
+C:\Users\EliasBexter\source\repos\learning\learning\bin\Debug\net6.0\ref\learning.dll
+C:\Users\EliasBexter\source\repos\learning\learning\bin\Debug\net6.0\learning.pdb
+C:\Users\EliasBexter\source\repos\learning\learning\obj\Debug\net6.0\learning.dll
+C:\Users\EliasBexter\source\repos\learning\learning\obj\Debug\net6.0\ref\learning.dll
+C:\Users\EliasBexter\source\repos\learning\learning\obj\Debug\net6.0\learning.pdb
+C:\Users\EliasBexter\source\repos\learning\learning\obj\Debug\net6.0\learning.genruntimeconfig.cache

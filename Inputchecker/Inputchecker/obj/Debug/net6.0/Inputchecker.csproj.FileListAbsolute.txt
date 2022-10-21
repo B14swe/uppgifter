@@ -1,0 +1,15 @@
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\obj\Debug\net6.0\Inputchecker.csproj.AssemblyReference.cache
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\obj\Debug\net6.0\Inputchecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\obj\Debug\net6.0\Inputchecker.AssemblyInfoInputs.cache
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\obj\Debug\net6.0\Inputchecker.AssemblyInfo.cs
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\obj\Debug\net6.0\Inputchecker.csproj.CoreCompileInputs.cache
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\bin\Debug\net6.0\Inputchecker.exe
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\bin\Debug\net6.0\Inputchecker.deps.json
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\bin\Debug\net6.0\Inputchecker.runtimeconfig.json
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\bin\Debug\net6.0\Inputchecker.dll
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\bin\Debug\net6.0\Inputchecker.pdb
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\obj\Debug\net6.0\Inputchecker.dll
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\obj\Debug\net6.0\refint\Inputchecker.dll
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\obj\Debug\net6.0\Inputchecker.pdb
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\obj\Debug\net6.0\Inputchecker.genruntimeconfig.cache
+C:\Users\EliasBexter\source\repos\Inputchecker\Inputchecker\obj\Debug\net6.0\ref\Inputchecker.dll

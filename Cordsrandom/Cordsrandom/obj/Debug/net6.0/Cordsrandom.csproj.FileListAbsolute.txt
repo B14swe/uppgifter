@@ -1,0 +1,15 @@
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\bin\Debug\net6.0\Cordsrandom.exe
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\bin\Debug\net6.0\Cordsrandom.deps.json
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\bin\Debug\net6.0\Cordsrandom.runtimeconfig.json
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\bin\Debug\net6.0\Cordsrandom.dll
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\bin\Debug\net6.0\Cordsrandom.pdb
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\obj\Debug\net6.0\Cordsrandom.csproj.AssemblyReference.cache
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\obj\Debug\net6.0\Cordsrandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\obj\Debug\net6.0\Cordsrandom.AssemblyInfoInputs.cache
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\obj\Debug\net6.0\Cordsrandom.AssemblyInfo.cs
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\obj\Debug\net6.0\Cordsrandom.csproj.CoreCompileInputs.cache
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\obj\Debug\net6.0\Cordsrandom.dll
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\obj\Debug\net6.0\refint\Cordsrandom.dll
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\obj\Debug\net6.0\Cordsrandom.pdb
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\obj\Debug\net6.0\Cordsrandom.genruntimeconfig.cache
+C:\Users\EliasBexter\source\repos\Cordsrandom\Cordsrandom\obj\Debug\net6.0\ref\Cordsrandom.dll
