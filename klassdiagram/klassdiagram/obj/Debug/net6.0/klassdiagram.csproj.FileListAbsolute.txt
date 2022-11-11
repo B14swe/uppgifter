@@ -1,0 +1,15 @@
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\obj\Debug\net6.0\klassdiagram.csproj.AssemblyReference.cache
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\obj\Debug\net6.0\klassdiagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\obj\Debug\net6.0\klassdiagram.AssemblyInfoInputs.cache
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\obj\Debug\net6.0\klassdiagram.AssemblyInfo.cs
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\obj\Debug\net6.0\klassdiagram.csproj.CoreCompileInputs.cache
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\bin\Debug\net6.0\klassdiagram.exe
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\bin\Debug\net6.0\klassdiagram.deps.json
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\bin\Debug\net6.0\klassdiagram.runtimeconfig.json
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\bin\Debug\net6.0\klassdiagram.dll
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\bin\Debug\net6.0\klassdiagram.pdb
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\obj\Debug\net6.0\klassdiagram.dll
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\obj\Debug\net6.0\refint\klassdiagram.dll
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\obj\Debug\net6.0\klassdiagram.pdb
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\obj\Debug\net6.0\klassdiagram.genruntimeconfig.cache
+C:\Users\EliasBexter\source\repos\klassdiagram\klassdiagram\obj\Debug\net6.0\ref\klassdiagram.dll
